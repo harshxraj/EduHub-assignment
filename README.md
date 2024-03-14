@@ -15,20 +15,28 @@ EduHub is a comprehensive Learning Management System (LMS) designed to facilitat
    npm install
    ```
 
-3. **Install Frontend Dependencies**:
+3. **Backend (.env)**
+
+ Create a file named `.env` in the `backend` directory and add the following environment variables:
+
+  ```
+  MONGO_URI=
+  SESSION_SECRET=
+  ```
+4. **Install Frontend Dependencies**:
 
    ```bash
    cd ../frontend
    npm install
    ```
 
-4. **Start the Backend Server**:
+5. **Start the Backend Server**:
 
    ```bash
    npm run start
    ```
 
-5. **Start the Frontend Development Server**:
+6. **Start the Frontend Development Server**:
 
    ```bash
    npm run dev
