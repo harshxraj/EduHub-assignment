@@ -49,6 +49,13 @@ EduHub is a comprehensive Learning Management System (LMS) designed to facilitat
 - **Apollo Client**: A fully-featured GraphQL client for React applications, simplifying data fetching and management.
 - **Redux Toolkit**: A Redux library that provides utilities for managing application state efficiently.
 
+## Preview
+## Admin 
+https://github.com/harshxraj/EduHub-assignment/assets/128404446/1821e64c-00e3-456f-a0cf-f991a5525905
+
+## Student
+https://github.com/harshxraj/EduHub-assignment/assets/128404446/6f4ca3e2-44c0-4c0a-b2c0-693dde36e59b
+
 
 ## Screenshots (Admins and students):
 - Register Page![Screenshot 2024-03-14 184113](https://github.com/harshxraj/EduHub-assignment/assets/128404446/7c5f9826-c31a-4928-8cc4-0e907593f8eb)
