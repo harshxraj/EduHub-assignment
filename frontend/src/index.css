@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.login-form {
+  max-width: 380px;
+}
+.login-form-forgot {
+  float: right;
+}
+.ant-col-rtl .login-form-forgot {
+  float: left;
+}
+.login-form-button {
+  width: 100%;
+}
+.ant-picker-ok {
+  background-color: #1890ff !important;
+  border-radius: 6px;
+}
+html,
+body,
+#root {
+  /* height: 100%;
+  margin: 0;
+  padding: 0; */
+}
