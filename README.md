@@ -33,6 +33,7 @@ EduHub is a comprehensive Learning Management System (LMS) designed to facilitat
    ```bash
    npm run dev
    ```
+## Admin credentials - [email - test@gmail.com] [password - 123]
 
 ## Tech Stack:
 ## Backend:
