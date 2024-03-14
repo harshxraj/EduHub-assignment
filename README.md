@@ -1,6 +1,39 @@
 ## EduHub-LMS
 EduHub is a comprehensive Learning Management System (LMS) designed to facilitate interactive online learning experiences. It connects instructors (admins) and students through courses and live lectures, emphasizing personalized learning and collaborative engagement.
 
+## Get Started:
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/your-username/EduHub-LMS.git
+   ```
+
+2. **Install Backend Dependencies**:
+
+   ```bash
+   cd backend
+   npm install
+   ```
+
+3. **Install Frontend Dependencies**:
+
+   ```bash
+   cd ../frontend
+   npm install
+   ```
+
+4. **Start the Backend Server**:
+
+   ```bash
+   npm run start
+   ```
+
+5. **Start the Frontend Development Server**:
+
+   ```bash
+   npm run dev
+   ```
+
 ## Tech Stack:
 ## Backend:
 - **Node.js**: A JavaScript runtime environment for building scalable server-side applications.
