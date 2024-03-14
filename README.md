@@ -5,7 +5,7 @@ EduHub is a comprehensive Learning Management System (LMS) designed to facilitat
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/EduHub-LMS.git
+   git clone https://github.com/harshxraj/EduHub-assignment.git
    ```
 
 2. **Install Backend Dependencies**:
